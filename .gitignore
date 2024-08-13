@@ -1,1 +1,4 @@
 DataSets/
+.DS_Store
+.ipynb_checkpoints
+.virtual_documents
